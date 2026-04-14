@@ -209,8 +209,3 @@ type ShopCategoryConfig = Partial<{
     description: string | CustomTextStyling
 }>
 ```
-## Helpers
-
-|Name|Description|Link|
-|:-:|:-:|:-:|
-|ats - add to shop|Easily make a custom shop with buy and sell for multiple items and rngs|[ats](/ats.js)|
